@@ -20,6 +20,8 @@ covers:
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44913#The-Life-of-the-Mosellewith-the-Rhine-at-Coblence
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
