@@ -1,0 +1,36 @@
+_repo: The-Life-of-the-Mosellewith-the-Rhine-at-Coblence_44913
+_version: 0.1.0
+contributor:
+  illustrators:
+  - &id001
+    agent_name: Rooke, Octavius
+    gutenberg_agent_id: '42985'
+    url: http://www.gutenberg.org/2009/agents/42985
+  - agent_name: Humphreys, Henry Noel
+    aliases:
+    - Humphreys, H. N.
+    - Humphreys, H. Noel (Henry Noel)
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '42986'
+    url: http://www.gutenberg.org/2009/agents/42986
+covers:
+- cover_type: archival
+  image_path: 44913-h/images/new-cover.jpg
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moselle River Valley'
+- !lcc 'DC'
+title: "The Life of the Moselle\r\nFrom its source in the Vosges Mountains to its\
+  \ junction with the Rhine at Coblence"
+url: http://www.gutenberg.org/ebooks/44913
